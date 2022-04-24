@@ -20,4 +20,7 @@ ElprisRequester requester elpris via topic requestelpris og forventer svar via t
 
 ElprisRequester -> ElprisProducer -> ElprisData  
 &  
-ElprisData -> ElprisProducer -> ElprisRequester
+ElprisData -> ElprisProducer -> ElprisRequester 
+
+Screenshots fra de 3 programmer:
+![Screenshots4CaseDel6](https://user-images.githubusercontent.com/80167961/164992287-bebdf44f-d5be-415d-b8a9-addf58769b64.png)
